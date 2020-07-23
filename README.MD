@@ -1,3 +1,4 @@
 # Github Demo
 
-This is just a Gitehub Demo.
+This is just a Github Demo!
+
