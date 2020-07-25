@@ -7,3 +7,5 @@ This is just a Github Demo!
 This is a test for git and GitHub Course.
 
 This is a change.
+
+This a third change.
